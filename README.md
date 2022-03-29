@@ -1,5 +1,5 @@
-# Multi-level efficient extinction perception network(MLEEP)
-This is the code for Multi-level efficient extinction perception network.
+# Multi-level Efficient Extinction Perception Network(MLEEP)
+This is the code for Multi-level Efficient Extinction Perception Network.
 ![图片17](https://user-images.githubusercontent.com/46095890/157889524-cd356d86-5473-4587-886c-4759bb2d117c.png)
 
 
