@@ -5,7 +5,7 @@ This is the code for Multi-level Efficient Extinction Perception Network.
 
 ## Cross-polarized Petrographic Image Datasets (CPPID) for Grain Edge Segmentation
 
-A carefully annotated cross-polarized petrographic image dataset for grain edge detection is one of the paper's main contributions. The datasets are comprised of five different types of rock thin sections and were collected using a CAIKON XP-330C polarizing microscope and a DAHENG IMAGING MER-2000-19U3C camera. Each kind of rock thin section is photographed with 25 different fields of view, and images are collected with 7 different polarizing angles: 0°,15°,30°,45°,60°,75°,90° for each field of vision. As a consequence, the total datasets comprise 875 petrographic images with a size of 4666x3672x3.
+The datasets are comprised of five different types of rock thin sections and were collected using a CAIKON XP-330C polarizing microscope and a DAHENG IMAGING MER-2000-19U3C camera. Each kind of rock thin section is photographed with 25 different fields of view, and images are collected with 7 different polarizing angles: 0°,15°,30°,45°,60°,75°,90° for each field of vision. As a consequence, the total datasets comprise 875 petrographic images with a size of 4666x3672x3.
 ![图片21](https://user-images.githubusercontent.com/46095890/156997744-001e6a82-81bf-4e97-a51b-496da75a979e.png)
 
 Download the CPPID dataset here. [https://pan.baidu.com/s/1cBGJGWx6as2WjOVNFFcbOw?pwd=zc8i 
