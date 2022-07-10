@@ -16,5 +16,4 @@ Key：r4wu]
 3. Evaluate the model using evaluation.py or evaluation_max.py.
 
 ## Results after post-processing
-The predicted segmentation maps of image patches are merged directly to form the full segmentation results of size 2048×1536×3. Noting that because the train and validation dataset is divided randomly, the images patches used in the full segmentation results consist of both training and validating image patches. 
 ![图片23](https://user-images.githubusercontent.com/46095890/156997730-0e3bf266-d2ad-46c1-81cb-18a5276b9fc4.png)
