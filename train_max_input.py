@@ -190,8 +190,7 @@ if __name__ == '__main__':
         mean_loss, mean_iou, mean_Fscore = validate(valid_loader, model, loss1, IOU, Fscore, epoch=t,
                                                     cuda=device_num, supervision=False)
         writer.add_scalar('lr', optimizer_adam.param_groups[0]['lr'], t)
-        lr_scheduler.step\
-            ()
+        lr_scheduler.step()
         epoch_time = time.time() - end_epoch
         print(f"the {t + 1}th epoch_time: {epoch_time:.3f}")
         end_epoch = time.time()
